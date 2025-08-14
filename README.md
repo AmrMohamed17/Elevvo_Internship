@@ -106,27 +106,21 @@ machine-learning-internship/
 ├── task1-student-score-prediction/
 │   ├── student_score_prediction.ipynb
 │   ├── data/
-│   └── README.md
 ├── task2-customer-segmentation/
 │   ├── customer_segmentation.ipynb
 │   ├── data/
-│   └── README.md
 ├── task3-forest-cover-classification/
 │   ├── forest_cover_classification.ipynb
 │   ├── data/
-│   └── README.md
 ├── task4-loan-approval-prediction/
 │   ├── loan_approval_prediction.ipynb
 │   ├── data/
-│   └── README.md
 ├── task5-movie-recommendation/
 │   ├── movie_recommendation_system.ipynb
 │   ├── data/
-│   └── README.md
 ├── task8-traffic-sign-recognition/
 │   ├── traffic_sign_recognition.ipynb
 │   ├── data/
-│   └── README.md
 └── README.md
 ```
 
